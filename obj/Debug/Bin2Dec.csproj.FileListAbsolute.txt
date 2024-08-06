@@ -1,0 +1,7 @@
+C:\Users\jamie.campbell\source\repos\Bin2Dec\bin\Debug\Bin2Dec.exe.config
+C:\Users\jamie.campbell\source\repos\Bin2Dec\bin\Debug\Bin2Dec.exe
+C:\Users\jamie.campbell\source\repos\Bin2Dec\bin\Debug\Bin2Dec.pdb
+C:\Users\jamie.campbell\source\repos\Bin2Dec\obj\Debug\Bin2Dec.csproj.AssemblyReference.cache
+C:\Users\jamie.campbell\source\repos\Bin2Dec\obj\Debug\Bin2Dec.csproj.CoreCompileInputs.cache
+C:\Users\jamie.campbell\source\repos\Bin2Dec\obj\Debug\Bin2Dec.exe
+C:\Users\jamie.campbell\source\repos\Bin2Dec\obj\Debug\Bin2Dec.pdb
